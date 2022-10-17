@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\emilf\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "X:\\Projects\\EFSoft\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil.csproj",
+      "projectName": "SchneiderElectric.Minesweeper.Emil",
+      "projectPath": "X:\\Projects\\EFSoft\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil.csproj",
+      "packagesPath": "C:\\Users\\emilf\\.nuget\\packages\\",
+      "outputPath": "X:\\Projects\\EFSoft\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\emilf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://pkgs.dev.azure.com/emilfilip3/_packaging/emilfilip3/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

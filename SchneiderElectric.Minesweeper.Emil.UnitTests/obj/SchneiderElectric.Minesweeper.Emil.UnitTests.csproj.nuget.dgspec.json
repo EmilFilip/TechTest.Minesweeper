@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "X:\\Projects\\EFSoft\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil.UnitTests\\SchneiderElectric.Minesweeper.Emil.UnitTests.csproj": {}
+  },
+  "projects": {
+    "X:\\Projects\\EFSoft\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil.UnitTests\\SchneiderElectric.Minesweeper.Emil.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "X:\\Projects\\EFSoft\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil.UnitTests\\SchneiderElectric.Minesweeper.Emil.UnitTests.csproj",
+        "projectName": "SchneiderElectric.Minesweeper.Emil.UnitTests",
+        "projectPath": "X:\\Projects\\EFSoft\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil.UnitTests\\SchneiderElectric.Minesweeper.Emil.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\emilf\\.nuget\\packages\\",
+        "outputPath": "X:\\Projects\\EFSoft\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emilf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://pkgs.dev.azure.com/emilfilip3/_packaging/emilfilip3/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "X:\\Projects\\EFSoft\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil.csproj": {
+                "projectPath": "X:\\Projects\\EFSoft\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "X:\\Projects\\EFSoft\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "X:\\Projects\\EFSoft\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil.csproj",
+        "projectName": "SchneiderElectric.Minesweeper.Emil",
+        "projectPath": "X:\\Projects\\EFSoft\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil.csproj",
+        "packagesPath": "C:\\Users\\emilf\\.nuget\\packages\\",
+        "outputPath": "X:\\Projects\\EFSoft\\SchneiderElectric.Minesweeper.Emil\\SchneiderElectric.Minesweeper.Emil\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emilf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://pkgs.dev.azure.com/emilfilip3/_packaging/emilfilip3/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
